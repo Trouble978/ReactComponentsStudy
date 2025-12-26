@@ -1,4 +1,3 @@
-import { log } from 'echarts/types/src/util/log.js';
 import { useEffect, useRef, useState } from 'react';
 
 /**
